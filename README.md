@@ -1,3 +1,4 @@
+![Logo do Projeto](./logo.jpg)
 # 📚 Organizador de Grupos Acadêmicos
 
 Sistema automatizado para centralizar links de grupos de estudo, integrado diretamente com o Google Drive.
